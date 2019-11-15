@@ -1,2 +1,3 @@
 my comit
 - bikin html
+- memuat java script
